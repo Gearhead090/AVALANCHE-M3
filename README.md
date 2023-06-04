@@ -2,7 +2,7 @@
 This is a contract to mint,transfer and burn the token from a MetaMask walllet.
 
 ## Description
-This is a Solidity smart contract for creating a custom ERC20 token on the Ethereum blockchain. The token is called "Clement" and has the symbol "Clem". The contract allows the owner to mint new tokens and assign them to a specific address, transfer tokens between addresses, and burn tokens. The contract uses the OpenZeppelin ERC20 implementation for security. 
+This is a Solidity smart contract for creating a custom ERC20 token on the Ethereum blockchain. The token is called "Clement" and has the symbol "CLEM". The contract allows the owner to mint new tokens and assign them to a specific address, transfer tokens between addresses, and burn tokens. The contract uses the OpenZeppelin ERC20 implementation for security. 
 ## Requirements
 To use this contract, you will need:
 1)An Ethereum wallet (such as MetaMask) to interact with the contract
